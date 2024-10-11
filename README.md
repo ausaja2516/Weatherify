@@ -13,3 +13,5 @@ Weatherify allows you to track the current and future weather of cities of your 
 ### Removing a city:
 
 If you no longer wish to track a city, simply select the city within the home page. At the bottom of the page, there will be am option to delete the city.
+
+live site-link [Weatherify](https://weatherify-track.netlify.app/)
